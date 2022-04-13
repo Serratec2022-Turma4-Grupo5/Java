@@ -1,0 +1,10 @@
+
+h
+java:S1854">Remove this useless assignment to local variable "saldoAtual".(‰žãhHRMAJORZ
+CODE_SMELL
+Y
+java:S1481"/Remove this unused "saldoAtual" local variable.(‰žãhHRMINORZ
+CODE_SMELL
+W
+java:S1125"'Remove the unnecessary boolean literal.(ÊüèåüÿÿÿÿHRMINORZ
+CODE_SMELL

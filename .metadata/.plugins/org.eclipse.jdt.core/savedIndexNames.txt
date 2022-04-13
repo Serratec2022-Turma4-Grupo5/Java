@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\dsn\git\residencia\Java\.metadata\.plugins\org.eclipse.jdt.core
+760091825.index
+1853919775.index
+1865797976.index
