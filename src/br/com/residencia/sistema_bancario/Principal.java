@@ -1,4 +1,4 @@
-package sistemaBancario;
+package br.com.residencia.sistema_bancario;
 
 public class Principal {
 
@@ -14,6 +14,8 @@ public class Principal {
 		serratec.titular = "Marcos André";
 		serratec.saldo = 30000.00;
 		serratec.numeroDaConta = 002;
+		
+		
 
 		System.out.println("Saldo atual: " + devSix.saldo + 
 				"\nNome do titular: " + devSix.titular);
